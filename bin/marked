@@ -31,7 +31,6 @@ function help() {
 /**
  * Main
  */
-
 function main(argv, callback) {
   var files = []
     , options = {}
